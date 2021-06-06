@@ -19,3 +19,7 @@ deploy:
   tags: true 
   branch: travis_CI_test 
   repo: <Mamboing>/<Travis_CI_Tutorial>
+
+notifications: 
+ email: 
+  - 1302855173@qq.com
