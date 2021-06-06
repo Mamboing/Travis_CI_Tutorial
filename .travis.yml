@@ -15,5 +15,5 @@ deploy:
   - .travis.yml 
  on:
   tags: true 
-  branch: tag 
+  branch: travis_CI_test 
   repo: <Mamboing>/<Travis_CI_Tutorial>
